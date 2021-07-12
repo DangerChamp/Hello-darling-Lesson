@@ -1,5 +1,5 @@
 #This program says hello and asks for a age
-print('Hello!') # saying hello to user
+print('Hello fucker!') # saying hello to user
 print() # empty line
 print('whats your name?') # asking the user their name
 name=input()
