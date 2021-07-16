@@ -14,7 +14,7 @@ Jeśli twoja nowa proszę nie mogę tego wystarczająco podkreślić, to po pros
 Ten kod jest open source i każdy może się do niego przyczynić i dodać tam mały pomysł, po prostu pull request, a ja go przejrzę
 
 
-# links
-twitch- https://www.twitch.tv/cashbunny2k - livestreams all the time!
+# Spinki
+twitch- https://www.twitch.tv/cashbunny2k - Strumienie na żywo przez cały czas!
 
-source code by automatetheboringstuff - https://automatetheboringstuff.com/2e/chapter1/
+Kod źródłowy przez automatetheboringstuff - https://automatetheboringstuff.com/2e/chapter1/
