@@ -4,7 +4,7 @@ script and get to understand why we do the things i've set for you to learn from
 make sure to read threw and see the comments preset for you to see what each line does!
 it can be intimidating but is quite easy , make sure to follow me on twitch @GenesisGir and on GitHub
 """
-print('Hello!') #This line is saying hello with the print() function
+print('Hello!') #this line is saying hello with the print() function
 print() # when you use print() you can create empty lines like this one!
 print('whats your name?') # asking the user their name with the print() function 
 name=input() #im using the input function to take input from the user
@@ -15,7 +15,7 @@ print(len(name)) # the len function shows the amount of intergers inside the var
 print('So how old are you?') # using the print function to type more text on screen
 age=input() #input function takes users input 
 print('wow! Well guess what you will be ' + str(int(age) + 1) + ' in one year.') 
-"""" in line 17 we are using the str , int functions for 2 things. the str function is converting
+"""" In line 17 we are using the str , int functions for 2 things. the str function is converting
 the interger into a string data type and the int function take the interger and converts 
 floating data types into intergers! And the operators to add a new part of instruction to the command line.
 """
@@ -24,7 +24,7 @@ print('goodbye sweetheart!') #saying goodbye to the user using the print functio
 """"
 And thats it! this is simple code that you can review and analyze and study
 and branch out and make your own as well! make sure to follow me @genesisgir on twitch
-i do endless livestreams of my workflow and how i do things
+I do endless livestreams of my workflow and how I do things
 coding is a world of creativity and diverse scripts that come together that make programs
 below are some links to my sites and where this code was remixed from buh bye!
 twitch- www.twitch.com/cashbunny2k
