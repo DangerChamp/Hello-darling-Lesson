@@ -11,7 +11,7 @@ In my experience of coding thus far making mistakes are well. . .Fun! you get to
 If your new please I can't stress this enough is to just sit down have a coffee or a drink and listen to music and enjoy the code and learn from it! stress will make you demotivated and trust me that's not good for ya!
 
 # Remix & twist
-This code is open source and any one can contribute to it and add there little idea's just pull request and I will review
+This code is open source and any one can contribute to it and add there little idea's just pull request and I will review 
 
 
 # links
