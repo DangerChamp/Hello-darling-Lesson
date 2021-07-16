@@ -22,7 +22,7 @@ floating data types into intergers! and the operators to add a new part of instr
 print() #this empty line is using the print() function to create space   
 print('goodbye sweetheart!') #saying goodbye to the user using the print function
 """"
-And thats it! this is simple code that you can review and analyze and study
+And that's it! this is simple code that you can review and analyze and study
 and branch out and make your own as well! make sure to follow me @genesisgir on twitch
 i do endless livestreams of my workflow and how i do things
 coding is a world of creativity and diverse scripts that come together that make programs
@@ -32,5 +32,4 @@ github- https://github.com/GenesisGir
 source code -https://automatetheboringstuff.com/2e/chapter1/
 my tumblr-https://www.tumblr.com/blog/view/genesisgir
 """
-#reminder! dont rush your learning process , small steps , more power!
-
+#reminder! don't rush your learning process , small steps , more power!
