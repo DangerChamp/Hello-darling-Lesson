@@ -12,7 +12,7 @@ print('oh why hello '+name+' its nice to meet darling!') # chatting with the use
 print() # empty line using the print() function
 print('This is how many characters are in your name!') # telling the user how many letters are in their name
 print(len(name)) # the len function shows the amount of intergers inside the variable
-print('So how old are you?') # using the pring function to type more text on screen
+print('So how old are you?') # using the print function to type more text on screen
 age=input() #input function takes users input 
 print('wow! well guess what you will be ' + str(int(age) + 1) + ' in one year.') 
 """" in line 17 we are using the str , int functions for 2 things. the str function is converting
