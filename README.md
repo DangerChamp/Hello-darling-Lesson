@@ -1,6 +1,6 @@
 # Welcome to the Hello Darling Lesson! Remixed by GenesisGir(っ◔◡◔)っ
  Are you new to learning python and coding? well so am I and this project and code is being given away to you to learn from and research on completely for beginners in this lesson you will learn basic skills and functions like print , len() , variables , values, integers , floating point values , str() , int() , float() , operators , input and etc. I'm only 7 days old in programming so far but if I can do it you can as well! with this building block remixed so you can view and take apart , rip , dissect and study you should be able to make little handy programs for fun or a hobby and push further with your craft of coding in python. we all have to start somewhere and this is how I'm learning! Also I highly recommend to do this with tandem with the website https://automatetheboringstuff.com/ to better understand what's going on!
-
+ 
  # For more experienced coders too!
  If you been coding for a very long time watching someone start off can just be fun and not only you can contribute to the source code and enter you own remix of the code but also give feedback if something is wrong. with all the code aside we are building a community of people who come to together and work together
 
