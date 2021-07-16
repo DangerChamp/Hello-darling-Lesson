@@ -17,7 +17,7 @@ age=input() #input function takes users input
 print('wow! Well guess what you will be ' + str(int(age) + 1) + ' in one year.') 
 """" in line 17 we are using the str , int functions for 2 things. the str function is converting
 the interger into a string data type and the int function take the interger and converts 
-floating data types into intergers! and the operators to add a new part of instruction to the command line.
+floating data types into intergers! And the operators to add a new part of instruction to the command line.
 """
 print() #this empty line is using the print() function to create space   
 print('goodbye sweetheart!') #saying goodbye to the user using the print function
