@@ -19,7 +19,7 @@ twitch- https://www.twitch.tv/cashbunny2k - livestreams all the time!
 
 source code by automatetheboringstuff - https://automatetheboringstuff.com/2e/chapter1/
 
- ____________$$$$$$$$$
+ [6____________$$$$$$$$$
 ___________$$$$$$$$$$$
 ___________$$$$$$$$$$$
 ___________$$$$$$$$$$$______________$$$$$$$$_______$$$$$$$$
